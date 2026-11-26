@@ -14,7 +14,7 @@ Curso em portuguêÂªs sobre **Printing Press** ê¢â¬â a ferramenta
 
 Acesse a versêÂ£o web (servida pelo GitHub Pages na raiz do `main`):
 
-**https://inematds.github.io/pp-cli/**
+**https://linnoff88-dev.github.io/arckhe-/**
 
 ### Estrutura
 
@@ -64,7 +64,7 @@ python3 -m http.server 8000
 - Site Printing Press: https://printingpress.dev
 - Repo factory: https://github.com/mvanhorn/cli-printing-press
 - Biblioteca de CLIs: https://github.com/mvanhorn/printing-press-library
-- INEMA.CLUB: https://inema.club
+- ARCKHÉ AI: https://ARCKHÉ AI
 
 ## ê°Å¸âÂ LicenêÂ§a
 
